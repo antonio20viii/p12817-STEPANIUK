@@ -1,0 +1,12 @@
+#ignored files
+*tar.gz
+testlog*
+pr0[1-9].js
+/logs/*.log
+/logs/!all.log
+/modules/*/*.js
+
+
+
+
+
